@@ -22,4 +22,10 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/tc_0_1_2_ASA_Practice_Git_TC</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>ab961505-f19b-4041-9245-6dd77acc9d5f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/tc_0_1_3_ASA_Practice_Git_TC</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
