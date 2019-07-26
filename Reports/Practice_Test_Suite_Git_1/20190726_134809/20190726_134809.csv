@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Practice_Test_Suite_Git_1,Firefox 68.0,,,2019-07-26 13:48:10,2019-07-26 13:48:29,18.747s,INCOMPLETE
+,,,,,,,
+Test Cases/tc_0_1_1_ASA_Practice_Git_TC,Firefox 68.0,,,2019-07-26 13:48:11,2019-07-26 13:48:17,6.301s,PASSED
+"openBrowser("""")",Firefox 68.0,,,2019-07-26 13:48:11,2019-07-26 13:48:15,3.771s,PASSED
+"navigateToUrl(""https://www.asaquality.ee/"")",Firefox 68.0,,,2019-07-26 13:48:15,2019-07-26 13:48:16,1.345s,PASSED
+closeBrowser(),Firefox 68.0,,,2019-07-26 13:48:16,2019-07-26 13:48:17,0.916s,PASSED
+,,,,,,,
+Test Cases/tc_0_1_2_ASA_Practice_Git_TC,Firefox 68.0,,,2019-07-26 13:48:17,2019-07-26 13:48:22,5.043s,PASSED
+"openBrowser("""")",Firefox 68.0,,,2019-07-26 13:48:17,2019-07-26 13:48:20,2.672s,PASSED
+"navigateToUrl(""https://www.helmes.com/"")",Firefox 68.0,,,2019-07-26 13:48:20,2019-07-26 13:48:21,1.293s,PASSED
+closeBrowser(),Firefox 68.0,,,2019-07-26 13:48:21,2019-07-26 13:48:22,0.901s,PASSED
+,,,,,,,
+Test Cases/tc_0_1_3_ASA_Practice_Git_TC,Firefox 68.0,,,2019-07-26 13:48:22,2019-07-26 13:48:29,7.104s,PASSED
+"openBrowser("""")",Firefox 68.0,,,2019-07-26 13:48:22,2019-07-26 13:48:25,2.663s,PASSED
+"navigateToUrl(""https://home.kuehne-nagel.com/?no_mobile=1"")",Firefox 68.0,,,2019-07-26 13:48:25,2019-07-26 13:48:28,3.268s,PASSED
+closeBrowser(),Firefox 68.0,,,2019-07-26 13:48:28,2019-07-26 13:48:29,0.999s,PASSED
