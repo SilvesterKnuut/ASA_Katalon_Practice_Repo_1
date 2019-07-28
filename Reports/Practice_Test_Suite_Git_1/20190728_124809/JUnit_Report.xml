@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<testsuites name="Practice_Test_Suite_Git_1" time="18" tests="3" failures="0" errors="0">
+    <testsuite name="Practice_Test_Suite_Git_1" tests="3" failures="0" errors="0" time="18" timestamp="2019-07-28 12:48:11" hostname="DESKTOP-66LKLS4$ - 192.168.3.67" id="Test Suites/Practice_Test_Suite_Git_1">
+        <properties>
+            <property name="deviceName" value=""/>
+            <property name="devicePlatform" value=""/>
+            <property name="logFolder" value="C:\\Users\\Silvester\\git\\ASA_Katalon_Practice_Repo_1\\Reports\\Practice_Test_Suite_Git_1\\20190728_124809"/>
+            <property name="logFiles" value="C:\\Users\\Silvester\\git\\ASA_Katalon_Practice_Repo_1\\Reports\\Practice_Test_Suite_Git_1\\20190728_124809\\execution0.log"/>
+            <property name="attachments" value=""/>
+            <property name="hostName" value="DESKTOP-66LKLS4$ - 192.168.3.67"/>
+            <property name="os" value="Windows 10 64bit"/>
+            <property name="katalonVersion" value="6.2.1.2"/>
+            <property name="browser" value="Firefox 68.0"/>
+            <property name="hostAddress" value="192.168.3.67"/>
+            <property name="sessionId" value="1163f475-6ecb-48b2-b90c-0929b0b1f223"/>
+            <property name="seleniumVersion" value="3.141.59"/>
+            <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+            <property name="platform" value="Windows 10"/>
+        </properties>
+        <testcase name="Test Cases/tc_0_1_1_ASA_Practice_Git_TC" classname="Test Cases/tc_0_1_1_ASA_Practice_Git_TC" status="PASSED">
+            <system-out>2019-07-28 12:48:11 - [TEST_CASE][PASSED] - Test Cases/tc_0_1_1_ASA_Practice_Git_TC: Test Cases/tc_0_1_1_ASA_Practice_Git_TC&#xD;
+&#xD;
+2019-07-28 12:48:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-28 12:48:12 - [MESSAGE][INFO] - Starting 'Firefox' driver&#xD;
+&#xD;
+2019-07-28 12:48:12 - [MESSAGE][INFO] - Action delay is set to 0 seconds&#xD;
+&#xD;
+2019-07-28 12:48:15 - [MESSAGE][PASSED] - Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-28 12:48:15 - [TEST_STEP][PASSED] - navigateToUrl("https://www.asaquality.ee/"): Navigate to 'https://www.asaquality.ee/' successfully&#xD;
+&#xD;
+2019-07-28 12:48:17 - [MESSAGE][PASSED] - Navigate to 'https://www.asaquality.ee/' successfully&#xD;
+&#xD;
+2019-07-28 12:48:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed&#xD;
+&#xD;
+2019-07-28 12:48:18 - [MESSAGE][PASSED] - Browser is closed</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/tc_0_1_2_ASA_Practice_Git_TC" classname="Test Cases/tc_0_1_2_ASA_Practice_Git_TC" status="PASSED">
+            <system-out>2019-07-28 12:48:18 - [TEST_CASE][PASSED] - Test Cases/tc_0_1_2_ASA_Practice_Git_TC: Test Cases/tc_0_1_2_ASA_Practice_Git_TC&#xD;
+&#xD;
+2019-07-28 12:48:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-28 12:48:18 - [MESSAGE][INFO] - Starting 'Firefox' driver&#xD;
+&#xD;
+2019-07-28 12:48:21 - [MESSAGE][PASSED] - Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-28 12:48:21 - [TEST_STEP][PASSED] - navigateToUrl("https://www.helmes.com/"): Navigate to 'https://www.helmes.com/' successfully&#xD;
+&#xD;
+2019-07-28 12:48:22 - [MESSAGE][PASSED] - Navigate to 'https://www.helmes.com/' successfully&#xD;
+&#xD;
+2019-07-28 12:48:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed&#xD;
+&#xD;
+2019-07-28 12:48:23 - [MESSAGE][PASSED] - Browser is closed</system-out>
+            <system-err></system-err>
+        </testcase>
+        <testcase name="Test Cases/tc_0_1_3_ASA_Practice_Git_TC" classname="Test Cases/tc_0_1_3_ASA_Practice_Git_TC" status="PASSED">
+            <system-out>2019-07-28 12:48:23 - [TEST_CASE][PASSED] - Test Cases/tc_0_1_3_ASA_Practice_Git_TC: Test Cases/tc_0_1_3_ASA_Practice_Git_TC&#xD;
+&#xD;
+2019-07-28 12:48:23 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-28 12:48:23 - [MESSAGE][INFO] - Starting 'Firefox' driver&#xD;
+&#xD;
+2019-07-28 12:48:25 - [MESSAGE][PASSED] - Browser is opened with url: ''&#xD;
+&#xD;
+2019-07-28 12:48:25 - [TEST_STEP][PASSED] - navigateToUrl("https://home.kuehne-nagel.com/?no_mobile=1"): Navigate to 'https://home.kuehne-nagel.com/?no_mobile=1' successfully&#xD;
+&#xD;
+2019-07-28 12:48:29 - [MESSAGE][PASSED] - Navigate to 'https://home.kuehne-nagel.com/?no_mobile=1' successfully&#xD;
+&#xD;
+2019-07-28 12:48:29 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed&#xD;
+&#xD;
+2019-07-28 12:48:30 - [MESSAGE][PASSED] - Browser is closed</system-out>
+            <system-err></system-err>
+        </testcase>
+        <system-out>2019-07-28 12:48:11 - [TEST_SUITE][INCOMPLETE] - Practice_Test_Suite_Git_1: null</system-out>
+        <system-err>2019-07-28 12:48:11 - [TEST_SUITE][INCOMPLETE] - Practice_Test_Suite_Git_1: null</system-err>
+    </testsuite>
+</testsuites>
